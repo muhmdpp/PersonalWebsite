@@ -10409,11 +10409,22 @@ h4.sub-title {
     top: 0.9em; } }
 
 .w3l-main-banner h3.banner-text {
+  font-family: Poppins Thin;
+  
+  /* font-style: italic; */
   font-weight: 400;
   font-size: 56px;
   line-height: 65px;
   color: #fff; }
+#helloWorld{
+  font-family: Cascadia Mono Light;
+  font-style: italic;
+}
+.my3-4{
+  font-family: Cascadia Mono Light;
 
+  /* font-size: 2px; */
+}
 .w3l-main-banner .banner-info p {
   font-size: 24px;
   font-weight: 400;
